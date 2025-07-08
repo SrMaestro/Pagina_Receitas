@@ -1,4 +1,18 @@
+body{
+    background-color: #312e20;
+}
+
+#page{
+    box-sizing: border-box;
+    width: 800px;
+    padding: 24px;
+    background-color: #F0E8C2;
+    border-radius: 24;
+    margin: 48px auto;
+
+}
+
 img{
     border-radius: 16px;
-    width: 600px;
+    width: 400px;
 }
